@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test-error-handling-async", "test-error-handling-async\test-error-handling-async.csproj", "{D8BC61C8-06E8-4CAC-BEE3-31590552D210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8BC61C8-06E8-4CAC-BEE3-31590552D210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8BC61C8-06E8-4CAC-BEE3-31590552D210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8BC61C8-06E8-4CAC-BEE3-31590552D210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8BC61C8-06E8-4CAC-BEE3-31590552D210}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {677C1CCC-3447-4E58-A2E6-EC8692F1FB45}
+	EndGlobalSection
+EndGlobal
