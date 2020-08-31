@@ -45,5 +45,33 @@ namespace test_error_handling_async
 
             return Task.CompletedTask;
         }
+
+//        public static class Program
+//        {
+//            private static async Task Main(string[] args)
+//            {
+//            //var x = ReturnTask();
+//​
+//            // await ReturnTask();
+//​
+//            ReturnTask().GetAwaiter().GetResult();
+//​
+//            Console.WriteLine("Teste");
+//            }
+//​
+//        private static async Task ReturnTask()
+//            {
+//                await Task.Delay(5000);
+//​
+//            throw new Exception("error");
+//​
+//            // await Error();
+//        }
+//​
+//        private static Task Error()
+//            {
+//                throw new Exception("ERRO!");
+//            }
+//        }
     }
 }
